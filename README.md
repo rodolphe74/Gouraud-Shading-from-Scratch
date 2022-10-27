@@ -15,3 +15,4 @@ Fully "à l'ancienne"
 - [Polygons scanline](https://wrf.ecse.rpi.edu/Research/Short_Notes/pnpoly.html)
 - [Z-buffer](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/visibility-problem-depth-buffer-depth-interpolation)
 - [Wouldn't have been possible without linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation)
+- [Processing](https://processing.org/)
